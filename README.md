@@ -15,6 +15,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="ae logo"  />
+  <img width="12" />
 </div>
 
 <div align="center">
