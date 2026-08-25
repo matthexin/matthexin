@@ -13,7 +13,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
   <img width="12" />
-    <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="cpp"  />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="cpp"  />
   <img width="12" />
 </div>
 
