@@ -29,11 +29,11 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=pusechka12&&theme=github_dark&show_icons=true&hide_border=true&count_private=true&locale=ru&include_all_commits=true&v=1001">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=matthexin&&theme=github_dark&show_icons=true&hide_border=true&count_private=true&locale=ru&include_all_commits=true&v=1001">
 </p>
 
 ###
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=pusechka12&&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&row=1">
+  <img src="https://github-trophies.vercel.app/?username=matthexin&&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&row=1">
 </p>
